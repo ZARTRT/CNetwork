@@ -1,4 +1,4 @@
-# [TCP/IP协议和互联网协议群](https://course.study.163.com/480000006851432/lecture-480000037172592)
+# TCP/IP协议和互联网协议群
 
 ##### 一、互联网协议群
 
@@ -6,29 +6,39 @@
 >
 > ps：如果不可靠，那么会把数据可靠这件事交给UDP去做
 
-<div><img src="TCPIP协议和互联网协议群.assets/image-20210423165136401.png" alt="image-20210423165136401" style="zoom: 25%;" align="left"/></div>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210423165136401.png" alt="image-20210423165136401" width="500"/></div>
 
 
 
 1.应用层
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210423170800312.png" alt="image-20210423170800312" style="zoom: 25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210423170800312.png" alt="image-20210423170800312"  width="500"/></div>
+
+
 
 2.传输层
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210423170820127.png" alt="image-20210423170820127" style="zoom: 25%;" align="left" />
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210423170820127.png" alt="image-20210423170820127"  width="500"/></div>
+
+
 
 3.网络层
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210423171131592.png" alt="image-20210423171131592" style="zoom:25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210423171131592.png" alt="image-20210423171131592"  width="500"/></div>
+
+
 
 4.链路层
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210423171212145.png" alt="image-20210423171212145" style="zoom:25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210423171212145.png" alt="image-20210423171212145"  width="500"/></div>
+
+
 
 ##### 二、重要标识
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425111251996.png" alt="image-20210425111251996" style="zoom:25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425111251996.png" alt="image-20210425111251996"  width="500"/></div>
+
+
 
 ##### 三、TCP/IP封包
 
@@ -36,17 +46,25 @@
 
 2.只有`链路层`会增加一个footer尾部，这是为了保护数据，header和footer是用来区分一块一块数据。
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425113035983.png" alt="image-20210425113035983" style="zoom: 50%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425113035983.png" alt="image-20210425113035983"   width="600"/></div>
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425113459257.png" alt="image-20210425113459257" style="zoom:25%;" align="left"/>
+
+
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425113459257.png" alt="image-20210425113459257"  width="600"/></div>
+
+
 
 3.完整的TCP协议头(具体的项可查阅资料，这里不补充说明)
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425113800187.png" alt="image-20210425113800187" style="zoom: 25%;" align="left" />
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425113800187.png" alt="image-20210425113800187"   width="600"/></div>
+
+
 
 4.TCP协议封包
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425114539304.png" alt="image-20210425114539304" style="zoom: 25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425114539304.png" alt="image-20210425114539304"  width="500"/></div>
+
+
 
 ##### 四、建立连接为什么需要3次握手（TCP协议）
 
@@ -54,7 +72,9 @@
 
 ###### 1.异常情况
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425115035655.png" alt="image-20210425115035655" style="zoom:25%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425115035655.png" alt="image-20210425115035655"  width="300"/></div>
+
+
 
 ###### 2.正常情况
 
@@ -62,7 +82,9 @@
 
 关于下面更多的专业名词可自行百度它的含义，方便自身理解
 
-<img src="TCPIP协议和互联网协议群.assets/image-20210425115717366.png" alt="image-20210425115717366" style="zoom:28%;" align="left"/>
+<div><img src="TCPIP协议和互联网协议群.assets/image-20210425115717366.png" alt="image-20210425115717366" width="700"/></div>
+
+
 
 ###### 3.数据顺序问题
 
@@ -78,31 +100,37 @@ Ps：做前端开发千万不要以浏览器的时间为准，因为每个用户
 >
 > ​	3.2TCP/IP协议的处理方法（不变量）
 >
-> ​		<img src="TCPIP协议和互联网协议群.assets/image-20210425160355062.png" alt="image-20210425160355062" style="zoom:25%;" />
+> <div><img src="TCPIP协议和互联网协议群.assets/image-20210425160355062.png" alt="image-20210425160355062" width="500"/></div>
+>
+> ​		
 >
 > ​	3.3通过3.2中的不变量可以解决数据顺序问题
 >
 > ​		3.3.1三次握手
 >
-> ​		<img src="TCPIP协议和互联网协议群.assets/image-20210425161611715.png" alt="image-20210425161611715" style="zoom: 33%;"/>
+> <div><img src="TCPIP协议和互联网协议群.assets/image-20210425161611715.png" alt="image-20210425161611715" width="400" /></div>
+>
+> ​		
 >
 > ​		3.3.2数据传送（握手完了以后开始数据传送）
 >
-> ​				在TCP协议里必须有一个ACK返回，否则TCP会认为消息没有送达或者连接中断了。
+> ​		在TCP协议里必须有一个ACK返回，否则TCP会认为消息没有送达或者连接中断了。
 >
-> ​				<img src="TCPIP协议和互联网协议群.assets/image-20210425170054693.png" alt="image-20210425170054693" style="zoom:33%;" />
+> <div><img src="TCPIP协议和互联网协议群.assets/image-20210425170054693.png" alt="image-20210425170054693"  width="400" /></div>
+>
+> ​				
 >
 > ​		3.3.3顺序解决
 >
-> ​				<img src="TCPIP协议和互联网协议群.assets/image-20210425170806057.png" alt="image-20210425170806057" style="zoom: 33%;" />
+> <div><img src="TCPIP协议和互联网协议群.assets/image-20210425170806057.png" alt="image-20210425170806057"  width="400" /></div>
+>
+> ​				
 >
 > ​		3.3.4TCP结束场景
 >
 > ​				两个人都得把话说完说清楚了才能结束，事事有回应，件件有着落。
 >
-> ​				<img src="TCPIP协议和互联网协议群.assets/image-20210425172150694.png" alt="image-20210425172150694" style="zoom: 50%;" />
->
-> 
+> <div><img src="TCPIP协议和互联网协议群.assets/image-20210425172150694.png" alt="image-20210425172150694"  width="700" /></div>
 
 ​		
 
