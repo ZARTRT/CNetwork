@@ -76,7 +76,7 @@ Ps：做前端开发千万不要以浏览器的时间为准，因为每个用户
 >
 > ​	3.2TCP/IP协议的处理方法（不变量）
 >
-> ​		<img src="file:///Users/zhangjian/Documents/study/4.%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/2.TCP%E4%B8%8EIP%E5%8D%8F%E8%AE%AE%E7%BE%A4/TCPIP%E5%8D%8F%E8%AE%AE%E5%92%8C%E4%BA%92%E8%81%94%E7%BD%91%E5%8D%8F%E8%AE%AE%E7%BE%A4.assets/image-20210425160355062.png?lastModify=1619338349" alt="image-20210425160355062" style="zoom:25%;" />
+> ​		<img src="TCPIP协议和互联网协议群.assets/image-20210425160355062.png" alt="image-20210425160355062" style="zoom:25%;" />
 >
 > ​	3.3通过3.2中的不变量可以解决数据顺序问题
 >
