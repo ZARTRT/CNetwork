@@ -14,7 +14,7 @@
 
 ###### 2.HTTP历史
 
-<img src="/Users/zhangjian/Documents/study/4.计算机网络/4.HTTP入门/HTTP和基础工作链.assets/image-20210426145142551.png" alt="image-20210426145142551" style="zoom:25%;" align="left"/>
+<img src="HTTP和基础工作链.assets/image-20210426145142551.png" alt="image-20210426145142551" style="zoom:25%;" align="left"/>
 
 ###### 3.设计的基础因素
 
@@ -24,7 +24,7 @@
 >
 > 2.用户和交互时间
 
-<img src="/Users/zhangjian/Documents/study/4.计算机网络/4.HTTP入门/HTTP和基础工作链.assets/image-20210426145344487.png" alt="image-20210426145344487" style="zoom:25%;" align="left"/>
+<img src="HTTP和基础工作链.assets/image-20210426145344487.png" alt="image-20210426145344487" style="zoom:25%;" align="left"/>
 
 ###### 4.设计考虑因素（性能）--缓存与宽带优化
 
