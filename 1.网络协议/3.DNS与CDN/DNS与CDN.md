@@ -2,43 +2,43 @@
 
 ##### 一、统一资源定位符
 
-<img src="DNS与CDN.assets/image-20210426112614894.png" alt="image-20210426112614894" style="zoom:25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426112614894.png" alt="image-20210426112614894" style="zoom:25%;" align="left"/></div>
 
 ##### 二、DNS工作原理
 
-<img src="DNS与CDN.assets/image-20210426112939648.png" alt="image-20210426112939648" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426112939648.png" alt="image-20210426112939648" style="zoom: 25%;" align="left"/></div>
 
 1.A记录：定义主机的IP地址
 
-<img src="DNS与CDN.assets/image-20210426113447772.png" alt="image-20210426113447772" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426113447772.png" alt="image-20210426113447772" style="zoom: 25%;" align="left"/></div>
 
 2.AAAA记录：定义主机的IPv6地址
 
-<img src="DNS与CDN.assets/image-20210426113637997.png" alt="image-20210426113637997" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426113637997.png" alt="image-20210426113637997" style="zoom: 25%;" align="left"/></div>
 
 3.cname记录：定义域名的别名
 
-<img src="DNS与CDN.assets/image-20210426114557972.png" alt="image-20210426114557972" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426114557972.png" alt="image-20210426114557972" style="zoom: 25%;" align="left"/></div>
 
 4.MX记录：定义邮件服务
 
-<img src="DNS与CDN.assets/image-20210426114729597.png" alt="image-20210426114729597" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426114729597.png" alt="image-20210426114729597" style="zoom: 25%;" align="left"/></div>
 
 5.NS记录：定义提供DNS信息的服务器
 
-<img src="DNS与CDN.assets/image-20210426115140858.png" alt="image-20210426115140858" style="zoom: 25%;" align="left" />
+<div><img src="DNS与CDN.assets/image-20210426115140858.png" alt="image-20210426115140858" style="zoom: 25%;" align="left"/></div>
 
 6.SOA记录：定义在多个ns服务器中哪个是主服务器
 
-<img src="DNS与CDN.assets/image-20210426115515174.png" alt="image-20210426115515174" style="zoom: 25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426115515174.png" alt="image-20210426115515174" style="zoom: 25%;" align="left"/></div>
 
 7.TXT记录：提供文本信息
 
-<img src="DNS与CDN.assets/image-20210426115748835.png" alt="image-20210426115748835" style="zoom:25%;" align="left"/>
+<div><img src="DNS与CDN.assets/image-20210426115748835.png" alt="image-20210426115748835" style="zoom:25%;" align="left"/></div>
 
 ##### 三、CDN工作原理
 
-<img src="DNS与CDN.assets/image-20210426111741387.png" alt="image-20210426111741387"  align="left" style="zoom: 67%;" />
+<div><img src="DNS与CDN.assets/image-20210426111741387.png" alt="image-20210426111741387"  align="left" style="zoom: 67%;"/></div>
 
 ##### 四、总结
 
