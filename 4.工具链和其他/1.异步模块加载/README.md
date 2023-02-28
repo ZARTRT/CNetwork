@@ -4,19 +4,19 @@
 
 > 编程：程序就写在编程上
 >
-> <img src="异步模块加载.assets/image-20210510110606128.png" alt="image-20210510110606128" style="zoom:25%;" align="left"/>
+> <div><img src="异步模块加载.assets/image-20210510110606128.png" alt="image-20210510110606128" width="500"/></div>
 
 
 
 #### 二、AMD规范（底层建设）
 
-> <img src="/Users/zhangjian/Documents/study/4.计算机网络/4.工具链和其他/1.异步模块加载/异步模块加载.assets/image-20210510111952334.png" alt="image-20210510111952334" style="zoom:25%;" align="left"/>
+> <div><img src="异步模块加载.assets/image-20210510111952334.png" alt="image-20210510111952334" width="500"/></div>
 
 
 
 #### 三、CMD规范（底层建设）
 
-> <img src="异步模块加载.assets/image-20210510112400127.png" alt="image-20210510112400127" style="zoom:25%;" align="left"/>
+> <div><img src="异步模块加载.assets/image-20210510112400127.png" alt="image-20210510112400127" width="500"/></div>
 
 
 
@@ -28,7 +28,7 @@
 >
 > ps：这里我之前试过把require放入浏览器解析会报错，因为浏览器里没有require和module 
 >
-> <img src="异步模块加载.assets/image-20210510113123999.png" alt="image-20210510113123999" style="zoom:25%;" align="left"/>
+> <div><img src="异步模块加载.assets/image-20210510113123999.png" alt="image-20210510113123999" width="500"/></div>
 
 
 
@@ -38,7 +38,7 @@
 >
 > 2.import关键字不再是函数，设计者逐渐让它们规范了起来
 >
-> <img src="异步模块加载.assets/image-20210510113916701.png" alt="image-20210510113916701" style="zoom:25%;" align="left"/>
+> <div><img src="异步模块加载.assets/image-20210510113916701.png" alt="image-20210510113916701" width="500"/></div>
 
 
 

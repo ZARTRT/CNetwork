@@ -4,7 +4,7 @@
 
 1.图解promise过程：
 
-<img src="Fetch和promise相关的构架.assets/image-20210506160231823.png" alt="image-20210506160231823" style="zoom:25%;" align="left"/>
+<div><img src="Fetch和promise相关的构架.assets/image-20210506160231823.png" alt="image-20210506160231823" width="500"/></div>
 
 2.promise-coding示例：
 
@@ -224,11 +224,11 @@ new Promise((resolve) => {
 
 在`window`中本来就有`fetch`这个函数，而在`node`中需要引入`fetch`这个库
 
-<img src="Fetch和promise相关的构架.assets/image-20210506153927632.png" alt="image-20210506153927632" style="zoom:25%;" align="left"/>
+<div><img src="Fetch和promise相关的构架.assets/image-20210506153927632.png" alt="image-20210506153927632" width="500"/></div>
 
 1.Fetch返回的是一个promise对象（Response对象）
 
-<img src="Fetch和promise相关的构架.assets/image-20210506181829716.png" alt="image-20210506181829716" style="zoom:25%;" align="left"/>
+<div><img src="Fetch和promise相关的构架.assets/image-20210506181829716.png" alt="image-20210506181829716" width="500"/></div>
 
 #### 三、实战（指数补偿）
 

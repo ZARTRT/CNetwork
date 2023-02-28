@@ -2,7 +2,7 @@
 
 #### 一、表单提交方式
 
-<img src="实战文件上传.assets/image-20210507095112982.png" alt="image-20210507095112982" style="zoom:25%;" align="left"/>
+<div><img src="实战文件上传.assets/image-20210507095112982.png" alt="image-20210507095112982" width="500"/></div>
 
 > 接下来的例子中，都需要如下的js文件
 
@@ -100,9 +100,9 @@ enctype 编码方式
 
 1.base64
 
-<img src="实战文件上传.assets/image-20210507105955656.png" alt="image-20210507105955656" style="zoom:25%;" align="left"/>
+<div><img src="实战文件上传.assets/image-20210507105955656.png" alt="image-20210507105955656" width="500"/></div>
 
-<img src="实战文件上传.assets/image-20210507111426717.png" alt="image-20210507111426717" style="zoom:25%;" align="left"/>
+<div><img src="实战文件上传.assets/image-20210507111426717.png" alt="image-20210507111426717" width="500"/></div>
 
 ```html
 <!DOCTYPE html>
@@ -207,7 +207,7 @@ enctype 编码方式
 
 #### 三、总结
 
-<img src="实战文件上传.assets/image-20210507152606239.png" alt="image-20210507152606239" style="zoom:25%;" align="left"/>
+<div><img src="实战文件上传.assets/image-20210507152606239.png" alt="image-20210507152606239" width="500"/></div>
 
 上传文件和提交表单没有本质区别，都是提的body和http协议。
 
