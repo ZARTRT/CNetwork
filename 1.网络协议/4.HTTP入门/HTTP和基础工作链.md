@@ -14,7 +14,7 @@
 
 ###### 2.HTTP历史
 
-<div><img src="HTTP和基础工作链.assets/image-20210426145142551.png" alt="image-20210426145142551" width="500"/></div>
+<div><img src="HTTP和基础工作链.assets/image-20210426145142551.png" alt="image-20210426145142551" width="250"/></div>
 
 ###### 3.设计的基础因素
 
@@ -24,7 +24,7 @@
 >
 > 2.用户和交互时间
 
-<div><img src="HTTP和基础工作链.assets/image-20210426145344487.png" alt="image-20210426145344487" width="500"/></div>
+<div><img src="HTTP和基础工作链.assets/image-20210426145344487.png" alt="image-20210426145344487" width="250"/></div>
 
 ###### 4.设计考虑因素（性能）--缓存与宽带优化
 
