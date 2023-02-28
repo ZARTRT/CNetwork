@@ -28,7 +28,7 @@
 
 > 目标：主要是优化流量，优化延迟，解决队头阻塞。对应用层没有改变
 
-<div><img src="UDPvsTCP.assets/image-20210428152153411.png" alt="image-20210428152153411" width="500"/></div>
+<div><img src="UDPvsTCP.assets/image-20210428152153411.png" alt="image-20210428152153411" width="200"/></div>
 
 ###### 1.HTTP1.1排队问题
 
